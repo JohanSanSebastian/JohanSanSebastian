@@ -7,3 +7,7 @@ Here's something about me:
 - 📫 How to reach me: johansanju06@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My fun fact is that I don't have a fun fact 😂
+
+My GitHub Stats:
+[![Johan's github stats](https://github-readme-stats.vercel.app/api?username=JohanSanSebastian)](https://github.com/anuraghazra/github-readme-stats)
+
