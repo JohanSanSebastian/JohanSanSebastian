@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Main_Editor-VS_Code-informational?style=flat&logo=visual-studio-Code&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Python_Editor-Pycharm-informational?style=flat&logo=Pycharm&logoColor=white&color=2bbc8a) 
+
+
 
 Here's something about me:
 - 🔭 I’m currently working on an automated farm system that uses Arduino and Python with IoT
