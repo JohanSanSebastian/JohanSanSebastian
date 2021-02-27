@@ -28,7 +28,7 @@ I am a student who happens to like to code. I started to learn to code last year
 
 
 [1]: https://badgen.net/badge/Discord/Server/cyan?icon=discord
-[2]: https:discord.gg/vvbRDGjaSD
+[2]: https://discord.gg/vvbRDGjaSD
 
 
 
