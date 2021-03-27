@@ -26,6 +26,8 @@ I am a student who happens to like to code. I started to learn to code last year
 [![Johan's github stats](https://github-readme-stats.vercel.app/api?username=JohanSanSebastian&count_private=true&show_icons=true&theme=synthwave&layout=compact&line_height=21)](https://farm21.blogspot.com/)
 [![Johan's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=JohanSanSebastian&count_private=true&show_icons=true&theme=material-palenight&layout=compact)](https://farm21.blogspot.com/)
 
+![My Wall of Hackathons](https://idemoed.vercel.app/api/wall?username=JohanSanSebastian)
+
 
 [1]: https://badgen.net/badge/Discord/Server/cyan?icon=discord
 [2]: https://discord.gg/vvbRDGjaSD
