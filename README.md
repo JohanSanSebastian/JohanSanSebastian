@@ -15,7 +15,7 @@ I am a student who happens to like to code. I started to learn to code last year
 ## Here's something about me:
 - 🔭 I’m currently working on an automated farm system that uses Arduino and Python with IoT
 - 🌱 I’m currently learning AutoCad, Fusion360, Premiere Pro, Photoshop, Illustrator and more on Python 
-- 📫 How to reach me: johansanju06@gmail.com
+- 📫 How to reach me: johan@farmtech.gq
 - ⚡ Fun fact: I love filmmaking and would like to start a YouTube channel one day
 - 😄 Pronouns: He/Him
 
