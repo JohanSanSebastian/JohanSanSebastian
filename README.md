@@ -15,7 +15,7 @@ I am a student who happens to like to code. I started to learn to code last year
 ## Here's something about me:
 - 🔭 I’m currently working on an automated farm system that uses Arduino and Python with IoT
 - 🌱 I’m currently learning AutoCad, Fusion360, Premiere Pro, Photoshop, Illustrator and more on Python 
-- 📫 How to reach me: johan@farmtech.gq
+- 📫 How to reach me: johan@farmtech.gq or johan@pixdev.gq
 - ⚡ Fun fact: I love filmmaking and would like to start a YouTube channel one day
 - 😄 Pronouns: He/Him
 
@@ -28,6 +28,7 @@ I am a student who happens to like to code. I started to learn to code last year
 ![Metrics](https://metrics.lecoq.io/JohanSanSebastian?template=classic&languages=1&isocalendar=1&contributors=1&traffic=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&contributors.head=master&contributors.ignored=github-actions%5Bbot%5D&contributors.contributions=true&config.timezone=Asia%2FDubai)
 
 
+## Hackathons I've been to:
 ![My Wall of Hackathons](https://idemoed.vercel.app/api/wall?username=JohanSanSebastian)
 
 
