@@ -24,7 +24,6 @@ I am a student who happens to like to code. I started to learn to code last year
 
 
 [![Johan's github stats](https://github-readme-stats.vercel.app/api?username=JohanSanSebastian&count_private=true&show_icons=true&theme=synthwave&layout=compact&line_height=21)](https://farm21.blogspot.com/)
-[![Johan's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=JohanSanSebastian&count_private=true&show_icons=true&theme=material-palenight&layout=compact)](https://farm21.blogspot.com/)
 
 ![Metrics](https://metrics.lecoq.io/JohanSanSebastian?template=classic&languages=1&isocalendar=1&contributors=1&traffic=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&contributors.head=master&contributors.ignored=github-actions%5Bbot%5D&contributors.contributions=true&config.timezone=Asia%2FDubai)
 
