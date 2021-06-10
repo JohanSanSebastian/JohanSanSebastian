@@ -13,8 +13,8 @@ I am a student who happens to like to code. I started to learn to code last year
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://discord.com/users/748207742799577159" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.com/users/748207742799577159" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15559115/johan-sebastian" target="blank"><img align="center" alt="Johan's StackOverFlow" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=johan@farmtech.gg&tf=cm"><img align="center" alt="Johan's Email" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="https://stackoverflow.com/users/14479702/johan-sebastian" target="blank"><img align="center" alt="Johan's StackOverFlow" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=johan@farmtech.gg&tf=cm"><img align="center" alt="Johan's Email" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
 
 
