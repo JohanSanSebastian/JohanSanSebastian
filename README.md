@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Main_Editor-VS_Code-informational?style=flat&logo=visual-studio-Code&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Python_Editor-Pycharm-informational?style=flat&logo=Pycharm&logoColor=white&color=2bbc8a) 
 [![Discord][1]][2]
-
+![](https://komarev.com/ghpvc/?username=JohanSanSebastian&color=blueviolet)
 
 ## Who am I?
 
