@@ -62,7 +62,7 @@ I am a student who happens to like to code. I started to learn to code last year
 
 
 
-My Friend and reason I know what programming is: [SahalDev](https://github.com/SahalDev)
+My Friend and reason I know what programming is: [Jhon](https://github.com/JhonLikesFloppa)
 
 
 
