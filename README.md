@@ -3,7 +3,6 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Main_Editor-VS_Code-informational?style=flat&logo=visual-studio-Code&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Python_Editor-Pycharm-informational?style=flat&logo=Pycharm&logoColor=white&color=2bbc8a) 
-[![Discord][1]][2]
 ![](https://komarev.com/ghpvc/?username=JohanSanSebastian&color=blueviolet)
 
 ## Who am I?
@@ -54,10 +53,6 @@ I am a student who happens to like to code. I started to learn to code last year
 
 ## Hackathons I've been to:
 ![My Wall of Hackathons](https://idemoed.vercel.app/api/wall?username=JohanSanSebastian)
-
-
-[1]: https://badgen.net/badge/Discord/Server/cyan?icon=discord
-[2]: https://discord.gg/vvbRDGjaSD
 
 
 
