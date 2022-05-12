@@ -41,7 +41,7 @@ Hi I'm Johan. I started to learn to code during the lockdowns in 2020, I started
 <table width="100%" align="center">
   <tr>
     <td>
-      <img src="https://metrics.lecoq.io/JohanSanSebastian?template=classic&languages=1&isocalendar=1&contributors=1&traffic=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&contributors.head=master&contributors.ignored=github-actions%5Bbot%5D&contributors.contributions=true&config.timezone=Asia%2FDubai">
+      <img src="https://metrics.lecoq.io/JohanSanSebastian?template=classic&isocalendar=1&languages=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FDubai">
       </td>
     </tr>
 </table>
