@@ -7,7 +7,7 @@
 Hi I'm Johan. I started to learn to code during the lockdowns in 2020, I started with learning Python and working on Arduino project. I'm currently doing CS50 and working on a big side project along with it.
 
 ## Here's something about me:
-- 🔭 I’m currently working on trying to manage school and my passions 😅
+- 🔭 I’m currently trying to manage school and my passions 😅
 - 🌱 I’m currently learning Ethical Hacking, C# and anything I find interesting
 - 📫 How to reach me: johan@farmtech.gq or johan@pixdev.gq
 - ⚡ Fun fact: I love filmmaking and would like to make my own movie one day
