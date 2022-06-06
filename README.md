@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello World!
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Main_Editor-VS_Code-informational?style=flat&logo=visual-studio-Code&logoColor=white&color=2bbc8a) 
