@@ -16,17 +16,10 @@ Hi I'm Johan. I started to learn to code during the lockdowns in 2020, I started
 
 <p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<a href="https://discord.js.org"><img src="https://cdn.discordapp.com/attachments/740865034887888996/740865173065170994/logo-square.png" width="20" alt="discord.js" /></a>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /></code>
-<code><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></code>
 <code><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></code></p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a></a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
-  
-
-## My GitHub Stats:
-
 
 
 <table width="100%" align="center">
@@ -50,7 +43,6 @@ Hi I'm Johan. I started to learn to code during the lockdowns in 2020, I started
 <p align="center">
 <a href="https://discord.com/users/748207742799577159" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="https://discord.com/users/748207742799577159" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14479702/johan-sebastian" target="blank"><img align="center" alt="Johan's StackOverFlow" height="30" width="40" src="https://www.svgrepo.com/show/349517/stackoverflow.svg" /></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=johan@farmtech.gg&tf=cm"><img align="center" alt="Johan's Email" height="30" width="40" src="https://www.svgrepo.com/show/223047/gmail.svg"/>
 </a>
 
 
