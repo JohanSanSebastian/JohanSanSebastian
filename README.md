@@ -43,4 +43,4 @@ Portfolio: [johansansebastian.github.io](https://johansansebastian.github.io)
 
 ---
 
-Fun Fact: When I'm not building something, I'm exploring india and documenting it at [room319.xyz](https://room319.xyz)
+Fun Fact: When I'm not building something, I'm exploring India and documenting it at [room319.xyz](https://room319.xyz)
